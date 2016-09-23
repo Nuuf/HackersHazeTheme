@@ -4,15 +4,15 @@ Hackers Haze Theme for VS Code based on the TextMate themes.
 
 ## Previews
 
-![alt text](https://i.gyazo.com/f471ee5473e65c698a56a09e75529ebc.png "JS")
+![alt text](https://i.gyazo.com/b39ee2da8006ad0ddd2e655082be50c0.png "JS")
 
-![alt text](https://i.gyazo.com/6fd2afd6b40547b868df3cd1a60b1db3.png "HTML")
+![alt text](https://i.gyazo.com/7bc1ebd3949db683ee5bdec8827d4ca4.png "HTML")
 
-![alt text](https://i.gyazo.com/38dada8fddac8c32a15e53e053ef29c2.png "CSS")
+![alt text](https://i.gyazo.com/36639a2257201dd2411777a7b7fd74bb.png "CSS")
 
-![alt text](https://i.gyazo.com/28dcfcc8128aa04c44373e1fb165fea1.png "C++")
+![alt text](https://i.gyazo.com/5e46b509c83f8403160c0db4c4960047.png "C++")
 
-![alt text](https://i.gyazo.com/e81916b7c2dcd605c10b92240d2bf512.png "Java")
+![alt text](https://i.gyazo.com/475d685a12b64d4130041a0960601242.png "Java")
 
 
 
