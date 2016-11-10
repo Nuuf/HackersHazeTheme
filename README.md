@@ -1,10 +1,10 @@
 # Hackers Haze
 
-Hackers Haze Theme for VS Code based on the TextMate themes.
+Hackers Haze Theme for VS Code
 
 ## Info
 
-For some reason, VS Code does not handle TextMate themes 100% accurately, so it might not look exactly like in the previews
+If you like this theme - check out Alien Camo Theme
 
 ## Previews
 
@@ -17,8 +17,3 @@ For some reason, VS Code does not handle TextMate themes 100% accurately, so it 
 ![alt text](https://i.gyazo.com/5e46b509c83f8403160c0db4c4960047.png "C++")
 
 ![alt text](https://i.gyazo.com/475d685a12b64d4130041a0960601242.png "Java")
-
-
-
-
-
