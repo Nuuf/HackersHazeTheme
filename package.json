@@ -2,7 +2,7 @@
     "name": "theme-hackershaze",
     "displayName": "Hackers Haze Theme",
     "description": "A bias theme with a dark background and a warm foreground",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "publisher": "Nuuf",
     "engines": {
         "vscode": "^1.5.0"

@@ -24,7 +24,7 @@
 				<key>lineHighlight</key>
 				<string>#3B573C</string>
 				<key>selection</key>
-				<string>#84BF89</string>
+				<string>#304532</string>
 			</dict>
 		</dict>
 		<dict>
@@ -36,6 +36,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#7D7D69</string>
+				<key>fontStyle</key>
+				<string> bold  italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -91,6 +93,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#E0F02B</string>
+				<key>fontStyle</key>
+				<string> bold </string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,10 +104,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>bold</string>
 				<key>foreground</key>
 				<string>#215C1F</string>
+				<key>fontStyle</key>
+				<string> bold  italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2AD4A7</string>
+				<string>#CDF5CC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -136,7 +140,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#54814eff</string>
+				<string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -244,7 +248,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#519449ff</string>
+				<string>#2E7A0B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -385,7 +389,7 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.alien_camo</string>
+	<string>theme.dark.hackers_haze</string>
 	<key>author</key>
 	<string>Nuuf</string>
 </dict>
