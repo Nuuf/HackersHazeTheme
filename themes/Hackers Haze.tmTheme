@@ -18,7 +18,7 @@
 				<key>caret</key>
 				<string>#A6D1A3</string>
 				<key>foreground</key>
-				<string>#11FF00</string>
+				<string>#1FFF2A</string>
 				<key>invisibles</key>
 				<string>#6B6B6B</string>
 				<key>lineHighlight</key>
@@ -59,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4185B3</string>
+				<string>#9EFFFF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -92,9 +92,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E0F02B</string>
+				<string>#A1AD64</string>
 				<key>fontStyle</key>
-				<string> bold </string>
+				<string> bold</string>
 			</dict>
 		</dict>
 		<dict>
@@ -215,7 +215,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6BB344</string>
+				<string>#7B4D94</string>
 			</dict>
 		</dict>
 		<dict>
@@ -237,7 +237,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B8991B</string>
+				<string>#8DAD56</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +248,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2E7A0B</string>
+				<string>#998842</string>
 			</dict>
 		</dict>
 		<dict>
@@ -279,7 +279,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C77F3B</string>
+				<string>#668F6E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -381,6 +381,83 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#519449ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Language Var</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8FFFE9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity Name Function</string>
+			<key>scope</key>
+			<string>entity.name.function</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#948D59</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Meta Brace Round</string>
+			<key>scope</key>
+			<string>meta.brace.round</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#99FF7A</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String DQuote HTML</string>
+			<key>scope</key>
+			<string>string.quoted.double.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82FF5C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punc Def Tag</string>
+			<key>scope</key>
+			<string>punctuation.definition.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#996287</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity Name Instance</string>
+			<key>scope</key>
+			<string>entity.name.type.instance</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#855E78</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String JS</string>
+			<key>scope</key>
+			<string>string.quoted.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C7BA00</string>
 			</dict>
 		</dict>
 	</array>
